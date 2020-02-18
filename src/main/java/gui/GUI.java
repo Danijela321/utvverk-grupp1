@@ -32,6 +32,7 @@ import domain.ContactBook;
  */
 
 public class GUI extends JFrame implements ActionListener {
+//
 	private JFrame frame = new JFrame("Contacts");
 	private JPanel panel1 = new JPanel();
 	private JPanel panel2 = new JPanel();
